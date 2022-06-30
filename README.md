@@ -1,11 +1,10 @@
-We have created an end-to-end website which will generate and show insights using the data
-provided by the twitch api and provide insights and leaderboards on various topics on the live
-streaming website
-With the help of Streamlit, Twitch API, MongoDB along with Python and various python libraries,
-we have been able to make a web application in which we are providing leaderboards and metrics
-for people who might be interested in twitch.
+# Metrics YouTwitchify
+check out the project here
+https://share.streamlit.io/vhri/major-twitch/dashboard.py
 
-## Visit the [Application](https://share.streamlit.io/surajanand-j/major-twitch/main.py)
+An end-to-end website that shows real-time leaderboards and metrics of Youtube, Spotify and
+Twitch aggregated in one place by utilizing their Data APIs. Also provides analysis and metrics and searched channel or livestream and the content produced. The goal was to provide all of this information aggregated in one place which is the website - Metrics YouTwitchify. The Streamlit API provides an easy and fast way to host data projects online via their cloud service which is free for anyone to use. We have set up MongoDB database connection to store timely snapshots of the fetched website data. ETL process done using Python with the help of pandas and numpy and used visualization libraries to display analytical trends.
+
 
 ## Preview
 
